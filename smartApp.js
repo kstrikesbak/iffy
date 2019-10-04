@@ -21,15 +21,15 @@ function toPounds(kg) {
 }
 
 function advice(userInput1) {
-    if (userInput1>100) {
+    if (userInput1>=100) {
         return "cut down calories and get yourself to the gym son!"
-    } else if (userInput1>90) {
+    } else if (userInput1>=90) {
         return "eat the right foods and work out a little every week"
-    } else if (userInput1>80) {
+    } else if (userInput1>=80) {
         return "you're doing alright don't worry about it. You could potentially up your activity level"
-    } else if (userInput1>70) {
+    } else if (userInput1>=70) {
         return "you're perfect"
-    } else if (userInput1>60) {
+    } else if (userInput1>=60) {
         return "eat a little more"
     } else {
         return "up the calories and maintain a healthy diet"
