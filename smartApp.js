@@ -20,7 +20,13 @@ function toPounds(kg) {
     console.log(pounds +'lbs');
 }
 
+
+
+
 function advice(userInput1) {
+ 
+    
+    
     if (userInput1>=100) {
         return "cut down calories and get yourself to the gym son!"
     } else if (userInput1>=90) {
