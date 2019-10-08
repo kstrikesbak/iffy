@@ -6,7 +6,16 @@ One Paragraph of project description goes here
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-![alt text](Users/kejalbhuva/Desktop/Screen%20Shot%202019-10-07%20at%209.48.20%20PM.png "title")
+```bash
+week-4/iffy $ node smartApp.js 80 kg
+176.3696lbs
+you're doing alright don't worry about it. You could potentially up your activity level
+week-4/iffy $ node smartApp.js 90 kg
+198.4158lbs
+eat the right foods and work out a little every week
+week-4/iffy $ node smartApp.js 100 kg
+220.462lbs
+cut down calories and get yourself to the gym son!
 
 ### Prerequisites
 
