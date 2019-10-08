@@ -16,6 +16,7 @@ eat the right foods and work out a little every week
 week-4/iffy $ node smartApp.js 100 kg
 220.462lbs
 cut down calories and get yourself to the gym son!
+```
 
 ### Prerequisites
 
