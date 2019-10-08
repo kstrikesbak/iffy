@@ -34,6 +34,14 @@ function toPounds(kg) {
     console.log(pounds +'lbs');
 }
 ```
+## What was used to build it
+* Terminal
+* Node
+* Conversion rates from Google
+* Javascript
+* Basic maths
+  
+
 
 ## Authors
 
@@ -43,6 +51,4 @@ function toPounds(kg) {
 ## License
 
 This project is licensed under the (BBB) Bad Boy Bhuva License.
-
-
 
