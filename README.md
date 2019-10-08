@@ -6,7 +6,7 @@ One Paragraph of project description goes here
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-![alt text](file:///Users/kejalbhuva/Desktop/Screen%20Shot%202019-10-07%20at%209.48.20%20PM.png "title")
+![alt text](Users/kejalbhuva/Desktop/Screen%20Shot%202019-10-07%20at%209.48.20%20PM.png "title")
 
 ### Prerequisites
 
